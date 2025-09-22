@@ -114,13 +114,13 @@ const Home = () => {
       </section>
 
       {/* Image Carousel Section */}
-      <section className="py-12 bg-background">
+{/*       <section className="py-12 bg-background">
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <HeroCarousel />
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Impact Section */}
       <section className="py-20 px-4 bg-gradient-to-b from-background to-muted/30">
@@ -265,7 +265,7 @@ const Home = () => {
           </Card>
           
           {/* Key Technologies Section */}
-          <div className="mt-16 animate-fade-in">
+{/*           <div className="mt-16 animate-fade-in">
             <div className="text-center mb-12">
               <h4 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Key Technologies</h4>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
@@ -289,7 +289,7 @@ const Home = () => {
                 </Card>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
