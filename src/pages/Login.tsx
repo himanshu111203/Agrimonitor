@@ -20,10 +20,10 @@ const Login = () => {
   // Sample farmer accounts for development
   const sampleAccounts = [
     { name: "Rakesh Kumar", password: "TestPass@123" },
-    { name: "farmer_anu", password: "TestPass@123" },
-    { name: "farmer_lee", password: "TestPass@123" },  
-    { name: "farmer_maya", password: "TestPass@123" },
-    { name: "farmer_john", password: "TestPass@123" },
+    { name: "Shyam Singh", password: "TestPass@123" },
+    { name: "Mohit Rai", password: "TestPass@123" },  
+    { name: "Maya Kumari", password: "TestPass@123" },
+    { name: "Sunita", password: "TestPass@123" },
   ];
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -116,7 +116,7 @@ const Login = () => {
             
             <div className="mt-6 text-center">
               <p className="text-muted-foreground text-sm mb-4">
-                Demo accounts: farmer_raj, farmer_anu, farmer_lee, farmer_maya, farmer_john<br/>
+                Demo accounts: Rakesh Kumar, Shyam Singh, Mohit Rai, Maya Kumari, Sunita<br/>
                 Password: TestPass@123
               </p>
               <p className="text-muted-foreground">
