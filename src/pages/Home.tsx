@@ -56,14 +56,14 @@ const Home = () => {
       rating: 5,
     },
     {
-      name: "Maria Santos",
-      role: "Organic Farm Owner, California",
+      name: "Mukesh Kataria",
+      role: "Rice Farmer, Haryana",
       content: "The early warning system saved my entire crop from a pest outbreak. This technology is revolutionary for sustainable farming.",
       rating: 5,
     },
     {
-      name: "Chen Wei",
-      role: "Agricultural Researcher, Beijing",
+      name: "Manoj Singh",
+      role: "Agricultural Researcher, Maharashtra",
       content: "The detailed spectral analysis and temporal forecasting features have transformed how we approach crop management research.",
       rating: 5,
     },
