@@ -122,7 +122,7 @@ const Home = () => {
 
   const testimonials = [
     {
-      name: "Rajesh Kumar",
+      name: "Rakesh Kumar",
       role: "Wheat Farmer, Punjab",
       content: "AgriMonitor helped me increase my wheat yield by 40% while reducing water usage by 25%. The AI predictions are incredibly accurate!",
       rating: 5,
