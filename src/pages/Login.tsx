@@ -19,7 +19,7 @@ const Login = () => {
 
   // Sample farmer accounts for development
   const sampleAccounts = [
-    { name: "farmer_raj", password: "TestPass@123" },
+    { name: "Rakesh Kumar", password: "TestPass@123" },
     { name: "farmer_anu", password: "TestPass@123" },
     { name: "farmer_lee", password: "TestPass@123" },  
     { name: "farmer_maya", password: "TestPass@123" },
