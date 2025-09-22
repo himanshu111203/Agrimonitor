@@ -99,7 +99,7 @@ const Home = () => {
                 onClick={() => navigate("/signup")}
                 className="text-lg px-10 py-6 rounded-full font-semibold shadow-feature hover:shadow-xl transition-all duration-300 hover:scale-105"
               >
-                Start Free Trial
+                Sign Up
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
               <Button 
